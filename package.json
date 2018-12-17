@@ -1,5 +1,5 @@
 {
-  "name": "lock-screen",
+  "name": "@znetstar/lock-screen",
   "version": "1.0.0",
   "description": "A cross-platform library which locks the screen",
   "main": "lib/index.js",

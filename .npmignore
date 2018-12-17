@@ -2,3 +2,4 @@ node_modules
 .tscache
 .vscode
 src
+.DS_Store
