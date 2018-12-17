@@ -1,7 +1,5 @@
 # lock-screen
 
-[![NPM](https://nodei.co/npm/lock-screen.png)](https://nodei.co/npm/lock-screen/)
-
 Lock screen will lock the current session.
 
 Currently supports MacOS and Windows. Linux support coming soon.
